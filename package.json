@@ -1,0 +1,24 @@
+{
+  "name": "bigwood-decentralised-platform",
+  "version": "1.0.0",
+  "description": "Decentralised social media platform, the main challenge so far has been media storage",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prannvat/Bigwood-decentralised-platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prannvat/Bigwood-decentralised-platform/issues"
+  },
+  "homepage": "https://github.com/prannvat/Bigwood-decentralised-platform#readme",
+  "dependencies": {
+    "@taquito/taquito": "^14.1.0"
+  }
+}
